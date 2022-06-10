@@ -151,6 +151,7 @@
     <build>
         <plugins>
             <!--spring boot maven插件 , 可以将项目运行依赖的jar包打到我们的项目中-->
+
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
